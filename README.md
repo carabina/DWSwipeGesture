@@ -3,7 +3,7 @@
 ###简化手势使用,支持CocoaPods📦
  ---
 # CocoaPods
-     platform :ios, ‘8.0’
+     platform :ios, '8.0'
      pod 'DWSwipeGesture', '~> 0.0.1'
    
  ---  
