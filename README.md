@@ -9,16 +9,16 @@
  ---  
 #Clone
 ####导入封装完成文件
-        SwipeGesture.h & SwipeGesture.m
+        DWSwipeGesture.h & DWSwipeGesture.m 或者直接将文件夹导入(DWSwipeGesture)
 ---
 ---
 #使用
 ####1、导入头文件/创建对象
-	#import "SwipeGesture.h"
+	#import "DWSwipeGesture.h"
  ---
-	@property (strong, nonatomic) SwipeGesture *swip;
+	@property (strong, nonatomic) DWSwipeGesture *swip;
  ---
-	SwipeGesture *swip = [[SwipeGesture alloc] init];
+	DWSwipeGesture *swip = [[DWSwipeGesture alloc] init];
 	
     	self.swip = swip;
 
