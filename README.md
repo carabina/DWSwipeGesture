@@ -8,6 +8,11 @@
    
  ---  
 #Clone
+	cd Desktop/
+	---
+	git clone https://github.com/dwanghello/DWSwipeGesture.git
+---
+
 ####导入封装完成文件
         DWSwipeGesture.h & DWSwipeGesture.m 或者直接将文件夹导入(DWSwipeGesture)
 ---
